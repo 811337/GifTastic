@@ -1,0 +1,13 @@
+.container {
+    background-color: silver;
+}
+
+.form {
+    background-color: grey;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    margin: 10px;
+}
